@@ -1,0 +1,22 @@
+
+
+body {
+    background-image: linear-gradient(to right, #E5E5CB, #D5CEA3);
+    color: #3C2A21;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+    border-top: 1px solid white;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
+
+h1 {
+    color: #1A120B;
+}
+
+h3 {
+    color: #1A120B;
+}
